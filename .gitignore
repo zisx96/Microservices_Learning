@@ -1,0 +1,139 @@
+# Compiled source
+*.class
+
+# Logs
+*.log
+spring.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# MacOS-specific files
+.DS_Store
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle specific files
+.gradle/
+build/
+
+# STS (Spring Tool Suite)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# VS Code
+.vscode/
+
+# JRebel
+.rebel/
+
+# Spring Boot specific
+.spring-boot-devtools.properties
+spring-boot-devtools
+
+.metadata/
+
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IntelliJ IDEA specific files (if used)
+.idea/
+*.iml
+*.iws
+
+# Gradle specific files
+.gradle/
+build/
+.gradle/caches/
+.gradle/wrapper/
+gradle-app.setting
+gradle.properties
+gradle-wrapper.properties
+
+# Spring Boot specific files
+*.jar
+*.war
+*.ear
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+
+# Generated files
+bin/
+out/
+target/
+
+# Application properties (if sensitive information is included)
+# application*.yml
+# application*.yaml
+# application*.properties
+
+# Database files
+*.db
+
+# Test outputs
+test-output/
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+
+# JetBrains project files
+*.idea/
+*.iws
+*.iml
+.idea/
